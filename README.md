@@ -78,21 +78,27 @@ The project includes PHPMailer for email-related functionalities such as OTP ver
 
 ## Folder Structure (Example)
 
-```bash
-    ChocoCart(Main Folder)
-        admin(Folder)
-        assets(Folder)
-            css(Folder)
-                admin(Folder)
-                client(Folder)
-            images(Folder)
-            js(Folder)
-        bootstrap(Folder)
-        client(Folder)
-        Database(Folder)
-        includes(Folder)
-    README.md
-```
+ChocoCart/                       # Main project folder
+│
+├── admin/                       # Admin panel related files
+│
+├── assets/                      # All static assets except bootstrap
+│   ├── css/
+│   │   ├── admin/               # Admin-specific stylesheets
+│   │   └── client/              # Client/user-facing stylesheets
+│   ├── images/                  # All images (products, UI elements)
+│   └── js/                     # JavaScript files
+│
+├── bootstrap/                   # Bootstrap framework files (CSS, JS)
+│
+├── client/                      # Client-facing PHP files (index, checkout, cart, etc.)
+│
+├── Database/                    # Database File
+│
+├── includes/                    # PHP Includes:--> connection, functions and PHPMailer
+│
+└── README.md                    # Project documentation
+
 
 ---
 
