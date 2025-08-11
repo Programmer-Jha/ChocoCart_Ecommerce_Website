@@ -1,4 +1,3 @@
-### Developed By: Aniket Kumar Jha
 # ChocoCart_Ecommerce_Website
 
 ChocoCart is a simple yet complete e-commerce website designed for selling chocolates online. The project is built using:
@@ -128,4 +127,4 @@ This project is open-source and free to use for learning and development purpose
 ---
 
 Thank you for checking out ChocoCart! If you have questions or want to contribute, feel free to open issues or pull requests.
-
+### Developed By: Aniket Kumar Jha
