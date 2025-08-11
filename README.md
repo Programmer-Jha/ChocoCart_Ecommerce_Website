@@ -77,7 +77,7 @@ The project includes PHPMailer for email-related functionalities such as OTP ver
 ---
 
 ## Folder Structure (Example)
-
+```bash
 ChocoCart/                       # Main project folder
 │
 ├── admin/                       # Admin panel related files
@@ -98,8 +98,7 @@ ChocoCart/                       # Main project folder
 ├── includes/                    # PHP Includes:--> connection, functions and PHPMailer
 │
 └── README.md                    # Project documentation
-
-
+```
 ---
 
 ## Technologies Used
