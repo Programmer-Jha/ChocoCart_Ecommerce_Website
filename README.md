@@ -1,4 +1,4 @@
-## Developed By: Aniket Kumar Jha
+### Developed By: Aniket Kumar Jha
 # ChocoCart_Ecommerce_Website
 
 ChocoCart is a simple yet complete e-commerce website designed for selling chocolates online. The project is built using:
@@ -81,74 +81,16 @@ The project includes PHPMailer for email-related functionalities such as OTP ver
 ```bash
     ChocoCart(Main Folder)
         admin(Folder)
-           categories.php
-           contact.php
-           dashboard.php
-           footer.php
-           header.php
-           login.php
-           logout.php
-           manage_categories.php
-           manage_product.php
-           order_status_update.php
-           orders.php
-           products.php
-           users.php
         assets(Folder)
             css(Folder)
                 admin(Folder)
-                    about.css
-                    footer.css
-                    header.css
-                    login.css
-                    manage_product.css
-                    order_status_update.css
-                    orders.css
                 client(Folder)
-                    about.css
-                    footer.css
-                    header.css
-                    index.css
-                    login.css
-                    my_orders.css
-                    product.css
-                    register.css
-                    search.css
             images(Folder)
             js(Folder)
         bootstrap(Folder)
         client(Folder)
-            about.php
-            add_to_cart.php
-            cart.php
-            categories.php
-            checkout.php
-            contact.php
-            footer.php
-            header.php
-            index.php
-            login.php
-            logout.php
-            my_orders.php
-            product.php
-            register.php
-            remove_from_cart.php
-            search.php
-            thank_you.php
-            update_cart.php
         Database(Folder)
-            chococart.sql
         includes(Folder)
-            PHPMailer(Folder)
-               DSNConfigurator.php
-               Exception.php
-               OAuth.php
-               OAuthTokenProvider.php
-               PHPMailer.php
-               POP3.php
-               SMTP.php
-            connection.php
-            functions.php 
     README.md
 ```
 
@@ -159,7 +101,7 @@ The project includes PHPMailer for email-related functionalities such as OTP ver
 - PHP  
 - MySQL  
 - HTML, CSS, JavaScript  
-- Bootstrap 4/5  
+- Bootstrap 5  
 - PHPMailer  
 
 ---
