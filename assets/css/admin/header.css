@@ -1,0 +1,35 @@
+body {
+    background-color: #3e2723;
+    color: #fff;
+    font-family: 'Segoe UI', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar {
+    background-color: #3e2723;
+}
+
+.navbar-brand,
+.nav-link {
+    color: #fbe9e7 !important;
+    font-weight: 500;
+}
+
+.nav-link:hover {
+    color: #ffccbc !important;
+}
+
+.icon-btn {
+    margin-left: 10px;
+    color: #fff;
+}
+
+.icon-btn:hover {
+    color: #ffab91;
+}
+
+main {
+    flex: 1;
+}

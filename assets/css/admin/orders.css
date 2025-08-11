@@ -1,0 +1,17 @@
+.text-choco {
+    color: #5a3e36;
+    font-weight: bold;
+}
+
+.btn-choco {
+    background-color: #6f4e37;
+    color: white;
+}
+.btn-choco:hover {
+    background-color: #5a3e36;
+    color: white;
+}
+
+.table-choco {
+    background-color: #6f4e37;
+}

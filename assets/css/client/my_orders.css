@@ -1,0 +1,21 @@
+.text-choco {
+    color: #5D3A00;
+}
+
+.table-choco {
+    background-color: #5D3A00;
+}
+
+.btn-choco {
+    background-color: #5D3A00;
+    color: white;
+}
+
+.btn-choco:hover {
+    background-color: #402800;
+    color: white;
+}
+
+.choco-table tbody tr:hover {
+    background-color: #fff8f0;
+}

@@ -1,0 +1,23 @@
+.btn-choco {
+  background-color: #6f4e37;
+  color: #fff;
+  border-radius: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-choco:hover {
+  background-color: #4b2e1d;
+  color: #fff;
+}
+
+.btn-outline-choco {
+  border: 2px solid #6f4e37;
+  color: #6f4e37;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+.btn-outline-choco:hover {
+  background-color: #6f4e37;
+  color: #fff;
+}

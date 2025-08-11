@@ -1,0 +1,18 @@
+.bg-choco {
+  background-color: #5e3023 !important;
+}
+
+.bg-light-choco {
+  background-color: #fef4ec;
+}
+
+.btn-choco {
+  background-color: #8d5524;
+  color: white;
+  transition: 0.3s ease-in-out;
+}
+
+.btn-choco:hover {
+  background-color: #5e3023;
+  color: white;
+}

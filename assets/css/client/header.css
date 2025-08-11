@@ -1,0 +1,27 @@
+.choco-navbar {
+  background-color: #4E342E; /* rich chocolate */
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.choco-navbar .nav-link {
+  color: #FFECB3 !important; /* caramel */
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.choco-navbar .nav-link:hover {
+  color: #ffffff !important;
+  text-decoration: underline;
+}
+
+.choco-navbar .navbar-brand {
+  color: #FFECB3 !important;
+  letter-spacing: 1px;
+  text-shadow: 1px 1px 2px #00000066;
+}
+
+.badge {
+  font-size: 0.75rem;
+  vertical-align: top;
+  margin-left: 3px;
+}

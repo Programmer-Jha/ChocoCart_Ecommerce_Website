@@ -1,0 +1,27 @@
+  .product-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+  }
+  .product-card .btn:hover {
+    background-color: #5c3d2e;
+    color: #fff;
+  }
+  .feature-box {
+    transition: all 0.3s ease;
+    background-color: #fff8f4;
+    border: 1px solid #f3e8e2;
+  }
+
+  .feature-box:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 10px 25px rgba(92, 61, 46, 0.15);
+    background-color: #fff3eb;
+  }
+
+  .hover-shadow:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+.transition {
+  transition: all 0.3s ease-in-out;
+}

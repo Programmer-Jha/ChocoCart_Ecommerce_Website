@@ -1,0 +1,18 @@
+<svg width="300" height="60" viewBox="0 0 300 60" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ChocoCart Logo">
+  <!-- Cocoa Bean Icon -->
+  <ellipse cx="30" cy="30" rx="22" ry="30" fill="#4e342e"></ellipse>
+  <path d="M30 5C36 14 36 46 30 55" stroke="#d4af37" stroke-width="4" stroke-linecap="round"></path>
+  <path d="M30 5C24 14 24 46 30 55" stroke="#d4af37" stroke-width="4" stroke-linecap="round"></path>
+  
+  <!-- Text -->
+  <text x="70" y="40" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-weight="700" font-size="36" fill="url(#chocoGradient)" letter-spacing="1.2">
+    ChocoCart
+  </text>
+  
+  <defs>
+    <linearGradient id="chocoGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6d4c41"></stop>
+      <stop offset="100%" stop-color="#3b2f2f"></stop>
+    </linearGradient>
+  </defs>
+</svg>

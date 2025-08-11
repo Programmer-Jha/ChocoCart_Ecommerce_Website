@@ -1,0 +1,81 @@
+body {
+    background: linear-gradient(135deg, #4b2e00, #7b4f24);
+    min-height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.login-container {
+    background: #3e2f1c;
+    border-radius: 15px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.7);
+    width: 100%;
+    max-width: 400px;
+    padding: 40px 30px;
+    text-align: center;
+    color: #f5e1b2;
+}
+
+.login-container h2 {
+    font-weight: 700;
+    margin-bottom: 30px;
+    letter-spacing: 2px;
+    color: #d9b382;
+    text-shadow: 1px 1px 5px #000;
+}
+
+.form-control {
+    background: #5a4422;
+    border: none;
+    border-radius: 10px;
+    color: #f5e1b2;
+    box-shadow: inset 2px 2px 8px #3a2e10, inset -2px -2px 8px #70592f;
+    transition: all 0.3s ease;
+}
+
+.form-control:focus {
+    background: #7b5e27;
+    color: #fff;
+    box-shadow: 0 0 8px #d9b382;
+    outline: none;
+    border: none;
+}
+
+.btn-choco {
+    background: #c97e2b;
+    border: none;
+    color: #3e2f1c;
+    font-weight: 600;
+    padding: 12px 0;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px #a16519;
+    transition: background 0.3s ease, color 0.3s ease;
+    width: 100%;
+    font-size: 1.1rem;
+}
+
+.btn-choco:hover {
+    background: #d9b382;
+    color: #3e2f1c;
+    box-shadow: 0 6px 14px #b28e45;
+}
+
+a {
+    text-decoration: none;
+    color: #f5e1b2;
+    font-weight: 600;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #d9b382;
+}
+
+.field_error {
+    color: red;
+    margin: 25px;
+}

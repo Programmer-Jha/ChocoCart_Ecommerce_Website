@@ -1,0 +1,56 @@
+body {
+    background-color: #3e2723;
+    /* dark chocolate color */
+    color: #fff;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.login-container {
+    max-width: 400px;
+    margin: 100px auto;
+    background-color: #4e342e;
+    /* slightly lighter chocolate */
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
+}
+
+.login-container h2 {
+    text-align: center;
+    margin-bottom: 25px;
+    color: #ffccbc;
+    /* creamy caramel */
+}
+
+.form-control {
+    background-color: #5d4037;
+    border: none;
+    color: #fff;
+}
+
+.form-control::placeholder {
+    color: #d7ccc8;
+}
+
+.btn-choco {
+    background-color: #8d6e63;
+    color: #fff;
+    border: none;
+}
+
+.btn-choco:hover {
+    background-color: #a1887f;
+}
+
+.brand {
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: #ffab91;
+}
+
+.field_error {
+    color: red;
+    margin: 25px;
+}

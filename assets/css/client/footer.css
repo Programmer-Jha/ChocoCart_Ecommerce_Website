@@ -1,0 +1,12 @@
+.footer {
+    background-color: #3e2723;
+    color: #fff;
+    text-align: center;
+    font-size: 14px;
+}
+
+.contact-info p {
+    margin: 5px 0;
+    color: #fff; 
+    font-weight: 500;
+}

@@ -1,0 +1,18 @@
+body {
+  background-color: #2c1e1e;
+  background-image: radial-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+  background-size: 20px 20px;
+  color: #f8f2ed;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.btn-choco {
+  background-color: #a0522d;
+  color: #fff;
+  border: none;
+  transition: all 0.3s ease;
+}
+
+.btn-choco:hover {
+  background-color: #8b4513;
+}
