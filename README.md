@@ -57,7 +57,7 @@ The project includes PHPMailer for email-related functionalities such as OTP ver
    - Open the PHP configuration file responsible for DB connection (e.g., `connection.php`).  
    - Update the database host, username, password, and database name according to your local setup.  
 4. **Configure PHPMailer:**  
-   - Open the PHP files handling email (e.g., `client/register.php`, `client/checkout.php`).  
+   - Open the PHP files handling email (e.g., `client/register.php`, `client/checkout.php`, `admin/contact.php`).  
    - Add your email credentials as explained above.  
 5. **Run the Project:**  
    - Start your local server (Apache & MySQL).  
