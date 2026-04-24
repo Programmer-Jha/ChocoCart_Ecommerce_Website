@@ -56,10 +56,13 @@ The project includes PHPMailer for email-related functionalities such as OTP ver
 3. **Configure Database Connection:**  
    - Open the PHP configuration file responsible for DB connection (e.g., `connection.php`).  
    - Update the database host, username, password, and database name according to your local setup.  
-4. **Configure PHPMailer:**  
+4. **Setup Bootstrap**  
+   - Manually Download the bootstrap folder and save it inside the main folder.  
+   - You can also, use CDN, but for that, you need to make changes in link tags of some files(e.g., `header.php`).  
+5. **Configure PHPMailer:**  
    - Open the PHP files handling email (e.g., `client/register.php`, `client/checkout.php` and `admin/contact.php`).  
    - Add your email credentials as explained above.  
-5. **Run the Project:**  
+6. **Run the Project:**  
    - Start your local server (Apache & MySQL).  
    - Access the website via `http://localhost/your_project_folder` in your browser.  
 
